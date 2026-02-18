@@ -35,5 +35,5 @@ You can access or download specific parts of the coursework using the links belo
 This project is built on the spirit of open-source sharing. You are encouraged to use these resources for your own learning and to share them with others who might benefit. If you find value in this, pass it forward.
 
 ---
--Author: [Yossef haytham]
--Linkedin account : [click here](www.linkedin.com/in/yossefhaythammohammed)
+**Author:** [Yossef haytham]
+**Connect on LinkedIn:** [My Profile](www.linkedin.com/in/yossefhaythammohammed)
