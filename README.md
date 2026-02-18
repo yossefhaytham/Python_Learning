@@ -36,4 +36,4 @@ This project is built on the spirit of open-source sharing. You are encouraged t
 
 ---
 **Author:** [Yossef haytham]    
-**Connect on LinkedIn:** [My Profile](www.linkedin.com/in/yossefhaythammohammed)
+**Connect on LinkedIn:** [My Profile](https://www.linkedin.com/in/yossefhaythammohammed)
